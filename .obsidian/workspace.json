@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "23638ca6629e507b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RO I/Zahlensysteme und Datentyp Integer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "16a7c291aa42fc3e",
             "type": "leaf",
             "state": {
@@ -52,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RO I/Zahlensysteme und Datentyp Integer.md",
+                "file": "MATHE II/VL 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "02e78295c60c6c0e",
@@ -127,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RO I/Zahlensysteme und Datentyp Integer.md",
+                "file": "MATHE II/VL 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RO I/Zahlensysteme und Datentyp Integer.md",
+                "file": "MATHE II/VL 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RO I/Zahlensysteme und Datentyp Integer.md"
+                "file": "MATHE II/VL 4.md"
               }
             }
           },
@@ -200,22 +186,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23638ca6629e507b",
+  "active": "d9088a6761b2f1b3",
   "lastOpenFiles": [
+    "MATHE II/Zahlenmengen/Natürliche Zahlen und vollständige Induktion.md",
+    "MATHE II/Zahlenmengen/Primzahlen.md",
+    "MATHE II/Zahlenmengen/Rationale und Reele Zahlen.md",
+    "MATHE II/Zahlenmengen/Teilbarkeit.md",
+    "RO I/Zahlensysteme und Datentyp Integer.md",
     "README.md",
     "RO I/_files/BinäreSubtraktion.png",
     "RO I/_files/ASCII2.png",
     "RO I/_files/ASCII1.png",
     "MATHE II/VL3.md",
     "RO I/Gliederung.md",
-    "RO I/Zahlensysteme und Datentyp Integer.md",
     "RO I/Hardware-Modellierung & Logik-Schaltungen.md",
     "RO I/Motivation.md",
-    "MATHE II/Zahlenmengen/Rationale und Reele Zahlen.md",
     "MATHE II/VL 4.md",
-    "MATHE II/Zahlenmengen/Teilbarkeit.md",
-    "MATHE II/Zahlenmengen/Primzahlen.md",
-    "MATHE II/Zahlenmengen/Natürliche Zahlen und vollständige Induktion.md",
     "_templates/_Headings.md",
     "THEO II/Primitive Rekursion.md",
     "THEO II/GOTO.md",

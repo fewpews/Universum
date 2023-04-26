@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "c242d75b9e202e46",
+    "type": "split",
+    "children": [
+      {
+        "id": "83bf7cfcd11ba739",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5280df013ca1b4b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d2346257f173965",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d2ed81f661e0d67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "043818f2931ef34b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae55f605687dea10",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02e78295c60c6c0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdf9f34f307022be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fa783a8540122a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a9455d8d9addc78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31fcc3661e27d000",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1b2405a8bd760dee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "83bf7cfcd11ba739",
+  "lastOpenFiles": [
+    "Mathe 1/K8 Eigenwerte/8.2 Das charakteristische Polynom.md",
+    "Mathe 1/K8 Eigenwerte/8.1 Eigenwerte und Eigenvektoren.md",
+    "Mathe 1/K7 Determinanten/7.4 Die Cramersche Regel und die Formel für die Inverse einer Matrix.md",
+    "Mathe 1/K7 Determinanten/7.3 Die Determinante.md",
+    "Mathe 1/K7 Determinanten/7.2 Die Signatur einer Permutat.md",
+    "Mathe 1/K7 Determinanten/7.1 Alternierende multilineare Abbildungen.md",
+    "Mathe 1/K6 Mehr über Vektorräume und lineare Abbildungen/6.3 Quotientenraum und Homomorphiesatz.md",
+    "Mathe 1/K6 Mehr über Vektorräume und lineare Abbildungen/6.2 Linearformen und Dualraum.md",
+    "Mathe 1/K5 Lineare Gleichungssysteme/5.3 Weitere Anwendungen des Gaußalgorithmus.md",
+    "Mathe 1/K6 Mehr über Vektorräume und lineare Abbildungen/6.1 Der Vektorraum Hom(V, W).md"
+  ]
+}

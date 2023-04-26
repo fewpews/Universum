@@ -65,7 +65,7 @@ Schritte Wiederholen bis **Ergebnis** $=1.0$
 - Übertrag zu nächst höherer Position hinzuaddiert
 #### Binäre Subtraktion
 - negativer Übertrag in gegebener Spalte addiert 2 zu Minuend-Bit hinzu
-![[Pasted image 20230426120657.png]]
+![[BinäreSubtraktion.png]]
 #### Binäre Multiplikation
 - Wie schriftliche Multiplikation
 - Werte entweder $0$ oder $1$ annehmen und entsprechend demnach $0$ oder Multiplikanden
@@ -86,8 +86,8 @@ Schritte Wiederholen bis **Ergebnis** $=1.0$
 		- Kontrollfunktionen für Umleitung von Datenströmen und Arrangieren&Positionieren 
 - Ein Zeichen in einem Byte (meist als 8-Bit (Byte) interpretiert)
 	- Zusätzliches Bit für spezifische Anwendungen
-![[Pasted image 20230426155930.png|400]]
-![[Pasted image 20230426155958.png|400]]
+![[ASCII1.png|400]]
+![[ASCII2.png|400]]
 ### Unicode
 - Industriestandard um verschiedenen gängige Symbole unterschiedlichster Sprachen darzustellen
 - Konvertierung nicht mehr nötig

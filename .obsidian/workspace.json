@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHE II/VL3.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATHE II/VL3.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATHE II/VL3.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATHE II/VL3.md"
+                "file": "README.md"
               }
             }
           },
@@ -199,13 +199,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23638ca6629e507b",
+  "active": "5d2ed81f661e0d67",
   "lastOpenFiles": [
+    "RO I/_files/BinäreSubtraktion.png",
+    "RO I/_files/ASCII2.png",
+    "RO I/_files/ASCII1.png",
+    "MATHE II/VL3.md",
+    "README.md",
     "RO I/Gliederung.md",
     "RO I/Zahlensysteme und Datentyp Integer.md",
-    "Pasted image 20230426155958.png",
-    "Pasted image 20230426155930.png",
-    "Pasted image 20230426120657.png",
     "RO I/Hardware-Modellierung & Logik-Schaltungen.md",
     "RO I/Motivation.md",
     "MATHE II/Zahlenmengen/Rationale und Reele Zahlen.md",
@@ -213,7 +215,6 @@
     "MATHE II/Zahlenmengen/Teilbarkeit.md",
     "MATHE II/Zahlenmengen/Primzahlen.md",
     "MATHE II/Zahlenmengen/Natürliche Zahlen und vollständige Induktion.md",
-    "MATHE II/VL3.md",
     "_templates/_Headings.md",
     "THEO II/Primitive Rekursion.md",
     "THEO II/GOTO.md",
@@ -232,7 +233,6 @@
     "MATHE II/_files/ggT.png",
     "MATHE II/Zahlenmengen",
     "THEO II/Mehrband-Turingmaschinen.md",
-    "THEO II/LOOP.md",
     "PP_RUST",
     "RO I/_files/HalbaddiererVolladdierer.png",
     "RO I/_files",

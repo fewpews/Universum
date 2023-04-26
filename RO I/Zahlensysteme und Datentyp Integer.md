@@ -71,8 +71,43 @@ Schritte Wiederholen bis **Ergebnis** $=1.0$
 - Werte entweder $0$ oder $1$ annehmen und entsprechend demnach $0$ oder Multiplikanden
 
 ## Komplementbildung
+### B-1-Komplement und B-Komplement
+- Basis $B$ des Zahlensystems, so dass für jede Ziffer des Minuenden $M_i$ gilt: $B \geq M_i$
+#### B-1-Komplement
+- $Z_B = B-1, B-1, ...,B-1 - M_{n-1}, M_{n-2},...,M_1$ 
+- Stellenweise Subtraktion ohne Über-/Unterlauf: $B-1-M_i$
+	- alle Stellen invertieren
+#### B-Komplement
+- $=Z_B +1$ 
+- Berechnung des B-1-Komplements und Addition einer $1$
+	- alle Stellen invertieren + $1$ 
+### Subtraktion durch Komplementbildung und Addition
+- $D = M-S$
+	- Differenz, Minuend, Subtrahend
+- **Konzept**: $D=M+(K-S)-K$ 
+	1. $K\geq S$ so dass $(K-S) >0$ (Reine Addition)
+	2. Das Komplement $K-S$ ist einfach zu bilden
+	3. $K$ kann von der Summe einfach subtrahiert werden
 
 ## Darstellung negativer Zahlen
+- **Anforderung 1**: Vorzeichenstelle mit Wert $0/1$ für positive/negative Zahlen
+- **Anforderung 2**: Summe einer positiven Zahl und der korrespondierenden negativen ganzen Zahl soll $0$ ergeben
+	- negative Zahl ist B-/2er-Komplement der positiven ganzen Zahl inklusive Vorzeichenstelle
+#### Positive Binärzahlen
+- $X = \sum^{n-1}_{i=0} x_i \cdot 2^i$
+#### Negative Binärzahlen
+- $X = -x_{n-1}2^{n-1} + \sum^{n-1}_{i=0} x_i \cdot 2^i$ 
+	- 2-Komplementdarstellung mit Vorzeichen
+
+### Überlauf und Rückkehr in den Zahlenbereich
+- Überlauf -> ins maximale negative
+- Rückkehr -> z.B. bei Berechnung -> Wert trotzdem korrekt
+### 2'er-Komlementdarstellung
+- $(-1) \cdot X = X_{2'er-Komplement}$ 
+	- Bits invertieren + $1$
+#### Vorzeichenerweiterung
+- $SXXXX=SSSSXXXX$ 
+	- $S$ = Vorzeichen-Bit, $X$ = Stelle ohne Vorzeichen
 
 ## Alphanumerische Codierung
 - Digitale Computer: Umgang/Verarbeitung numerischer/alphanumerischer Daten 
@@ -101,4 +136,5 @@ Schritte Wiederholen bis **Ergebnis** $=1.0$
 	- gerade Parität häufiger als ungerade
 
 ## Gray Code
-- Code 
+- Bei Zählvorgang lediglich ein Bit verändert
+- In manchen Anwendungen sind multiple Bitänderungen problematisch

@@ -42,6 +42,8 @@ Es gibt auch ein **Minorantenkriterium**, dass direkt aus dem Satz folgt:
 Die Reihe $\sum^\infty_{k=1} a_k$ ist absolut konvergent, falls es ein $q$ mit $0\leq q < 1$ gibt und ein $k_0 \in \mathbb{N}$ existiert, so dass $\sqrt[k]{|a_k|} \leq q$ für alle $k \geq k_0$ gilt.
 #### Beweis
 Es gilt $|a_k| \leq q^k$ und $\sum^\infty_{k=0} q^k$konvergiert für $q<1$
+#### Bemerkung
+Falls $\sqrt[k]{|a_k|} \geq 1$ , dann ist \sum^\infty_{k=0} a_k$ divergent
 
 ## Satz 3.34 (Quotientenkriterium)
 Sei $a_k \neq 0$ für $k \geq k_0$ 
@@ -49,8 +51,10 @@ Die Reihe $\sum^\infty_{k=1} a_k$ ist absolut konvergent, falls es ein $q$ mit $
 #### Beweis
 Aus $|\frac{a_{k+1}}{a_k}| \leq q$ folgt $|a_{k+1}| \leq q |a_k| \leq q^2 |a_{k-1}| \leq ... \leq q^{k+1-k_0} |a_{k_0}|$.
 Daher ist $\sum^\infty_{k=k_0} |a_k| \leq \frac{|a_k|}{q^k} \sum^\infty_{k=k_0} q^k$ und wir haben eine konvergente Majorante gefunden.
+#### Bemerkung
+Falls $|\frac{a_{k+1}}{a_k}| \geq 1$ für alle (s.168 Saendig1)
 
 #### Beispiele
 **Exponentialreihe** $\sum^\infty_{k=0} \frac{x^k}{k!}$ wobei $x \in \mathbb{R}$ 
 - Es ist nach dem Quotientenkriterium $\underset{k\rightarrow \infty}{lim}|\frac{x^{k+1} \cdot k!}{(k+1)! \cdot x^k}| = \underset{k\rightarrow \infty}{lim} \frac{x}{k+1} = 0$
-Also konvergiert die Reihe
+Also konvergiert die Reihe.

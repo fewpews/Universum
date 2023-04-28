@@ -5,7 +5,7 @@
 	- [[Hardware-Modellierung & Logik-Schaltungen#Boolsche Algebra|Boolesche Algebra]]
 	- [[Hardware-Modellierung & Logik-Schaltungen#Logik Gatter|Logik-Gatter]]
 	- [[Hardware-Modellierung & Logik-Schaltungen#Hardware-Beschreibungssprache|Hardware Beschreibungssprachen]]
-3. Zahlensysteme
+3. [[Zahlensysteme und Datentyp Integer|Zahlensysteme]]
 4. Arithmetische Schaltungen, Addierer, Multiplizierer, ...
 5. Flip-Flop, Schieberegister, Taktrate, Sequentielle Schaltungen
 6. Zustandsautomaten

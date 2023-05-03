@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHE II/VL 4.md",
+                "file": "PP_RUST/Rustlings/Data Types.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf8de7a22e45a5ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arithmetische Schaltungen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATHE II/VL6.md",
+                "file": "Arithmetische Schaltungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATHE II/VL6.md",
+                "file": "Arithmetische Schaltungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATHE II/VL6.md"
+                "file": "Arithmetische Schaltungen.md"
               }
             }
           },
@@ -199,11 +212,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5329878105d4d06b",
+  "active": "bf8de7a22e45a5ca",
   "lastOpenFiles": [
     "RO I/Gliederung.md",
+    "Arithmetische Schaltungen.md",
+    "RO I/Motivation.md",
     "RO I/Zahlensysteme und Datentyp Integer.md",
     "MATHE II/VL6.md",
+    "PP_RUST/Rustlings/Data Types.md",
+    "RO I/Hardware-Modellierung & Logik-Schaltungen.md",
     "MATHE II/VL 4.md",
     "MATHE II/Analysis",
     "MATHE II/VL3.md",
@@ -215,14 +232,11 @@
     "RO I/_files/BinäreSubtraktion.png",
     "RO I/_files/ASCII2.png",
     "RO I/_files/ASCII1.png",
-    "RO I/Hardware-Modellierung & Logik-Schaltungen.md",
-    "RO I/Motivation.md",
     "_templates/_Headings.md",
     "THEO II/Primitive Rekursion.md",
     "THEO II/GOTO.md",
     "THEO II/WHILE.md",
     "PSE/Streams.md",
-    "PP_RUST/Rustlings/Data Types.md",
     "PP_RUST/Rustlings/Variables and Mutability.md",
     "PP_RUST/Rustlings/Control Flow.md",
     "PP_RUST/Rustlings/Common Programming Concepts.md",

@@ -1,4 +1,4 @@
-# Zahlensysteme und Datentyp Integer
+# Zahlensysteme
 
 ## Zahlendartstellungen
 ### 1. Strichmengen

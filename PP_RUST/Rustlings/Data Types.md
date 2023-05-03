@@ -121,3 +121,7 @@ fn main() {
 ```
 
 ## Compound Types
+### Tupel Type
+
+
+### Array Type

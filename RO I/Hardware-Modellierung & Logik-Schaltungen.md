@@ -132,9 +132,6 @@ Complementary Metal-Oxide-Semiconductor:
 - $f_N=a \cdot b$
 	- Reihenschaltung
 
-## Halbaddierer - Volladdierer
-![[HalbaddiererVolladdierer.png|400]]
-
 ## Terme und Normalformen
 ### Definitionen - Terme
 - **Produktterm**

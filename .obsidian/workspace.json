@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10789d80f0622904",
+            "id": "4961adeec4d17957",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHE II/Zahlenmengen/Rationale und Reele Zahlen.md",
+                "file": "PP_RUST/Theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interface",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,6 +63,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d690e7c4087cb87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATHE II/Zahlenmengen/Rationale und Reele Zahlen.md",
+                "file": "PP_RUST/Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATHE II/Zahlenmengen/Rationale und Reele Zahlen.md",
+                "file": "PP_RUST/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATHE II/Zahlenmengen/Rationale und Reele Zahlen.md"
+                "file": "PP_RUST/Theory.md"
               }
             }
           },
@@ -160,8 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10789d80f0622904",
+  "active": "4961adeec4d17957",
   "lastOpenFiles": [
+    "PP_RUST/Einleitung.md",
+    "THEO II/Primitive Rekursion.md",
+    "THEO II/VL11.md",
+    "MATHE II/Zahlenmengen/Rationale und Reele Zahlen.md",
+    "PP_RUST/Rustlings/Hello World!.md",
+    "PP_RUST/Theory.md",
     "RO I/Gliederung.md",
     "RO I/Arithmetische Schaltungen.md",
     "RO I/_files/Rundungsmodi.png",
@@ -186,18 +200,13 @@
     "MATHE II/VL3.md",
     "MATHE II/Zahlenmengen/Natürliche Zahlen und vollständige Induktion.md",
     "MATHE II/Zahlenmengen/Primzahlen.md",
-    "MATHE II/Zahlenmengen/Rationale und Reele Zahlen.md",
     "MATHE II/Zahlenmengen/Teilbarkeit.md",
     "_templates/_Headings.md",
-    "THEO II/Primitive Rekursion.md",
     "THEO II/GOTO.md",
     "THEO II/WHILE.md",
     "PSE/Streams.md",
     "PP_RUST/Rustlings/Variables and Mutability.md",
     "PP_RUST/Rustlings/Control Flow.md",
-    "PP_RUST/Rustlings/Common Programming Concepts.md",
-    "PP_RUST/Rustlings/Functions.md",
-    "PP_RUST/Rustlings/Conditions.md",
     "PP_RUST/Rustlings",
     "MATHE II/_files",
     "MATHE II/Zahlenmengen",

@@ -1,3 +1,9 @@
+---
+marp: true
+define-math-global-directive
+---
+
+
 # Äquivalenz aussagenlogischer Formeln
 - Formeln syntaktisch verschieden aber das gleiche bedeuten -> **semantische Äquivalenz**
 ## Definition
